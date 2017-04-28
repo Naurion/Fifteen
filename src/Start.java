@@ -10,9 +10,6 @@ import javafx.scene.layout.*;
 import javafx.scene.text.Text;
 import javafx.stage.*;
 
-import java.io.InputStreamReader;
-
-
 public class Start extends Application {
     private String sMaxSize;
 

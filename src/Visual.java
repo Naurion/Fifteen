@@ -13,7 +13,6 @@ public class Visual  {
     private static HashMap<Integer,Button> buttons = new HashMap<Integer, Button>();
     private static Stage primaryStage = new Stage();
 
-
     private static void start() throws Exception {
         int counter = mMax*mMax-1;
         GridPane root = getGridPane();
